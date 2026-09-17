@@ -1,3 +1,0 @@
-print("Hello world")
-
-input("do you want to go home?")
